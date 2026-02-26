@@ -89,7 +89,7 @@ General_Health_Query_Chatbot/
 ## ⚙️ Installation
 
 ### Step 1: Clone repository
-git clone https://github.com/yourusername/general-health-query-chatbot.git
+git clone https://github.com/moizahmedx/General-Health-Assistant
 
 cd general-health-query-chatbot
 
